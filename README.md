@@ -8,7 +8,7 @@
 +In the first part of the notebook I only used the features obtained from image net and 
 removed the fully connected layers(by keeping include_top = False) and added few layers.
   *Trained it for one epoch
-  *We can see that train_accuracy reached a value of 95% train accuacy and 98% validation accuracy
+  *We can see that train_accuracy reached a value of 95%  and 98% validation accuracy
 +In the second part I went to train bit deep to train the network
   *Trained it for one epoch
   *We see that train accuracy is 97.21% and val_accuray 53%
