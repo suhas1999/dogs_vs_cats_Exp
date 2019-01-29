@@ -1,7 +1,7 @@
 # Dogs_vs_cats_Exp
 Here I tried use google colab notebook for the classification problem
 
-Here I classified the images using transfer learning:
+Here I classified the images using transfer learning:\n
   *Resnet50 architecture is used
   *I used the weights which are obtained when the model is trained on the Imagenet data set
   *Keras inbuilt preprocesing techiques are used
