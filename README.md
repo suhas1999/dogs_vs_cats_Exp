@@ -13,6 +13,8 @@ removed the fully connected layers(by keeping include_top = False) and added few
   *Trained it for one epoch
   *We see that train accuracy is 97.21% and val_accuray 53%
   From this we observe that  Model overfitted the train data
+  
+ Download the dataset from this link http://files.fast.ai/data/dogscats.zip
 
 **Conclusion** : Transfer learning allows to get better results than training a model from scratch.
 
