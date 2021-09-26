@@ -13,6 +13,10 @@ removed the fully connected layers(by keeping include_top = False) and added few
   *Trained it for one epoch
   *We see that train accuracy is 97.21% and val_accuray 53%
   From this we observe that  Model overfitted the train data
+
+
+
+  This is just a minor update for laptop setup
   
  Download the dataset from this link http://files.fast.ai/data/dogscats.zip
 
